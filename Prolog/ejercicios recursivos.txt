@@ -1,0 +1,14 @@
+Convierta un algoritmo que convierta un numero en exadecimal
+
+Determinante de una matriz cuadrada de matriz n
+
+Capturar la secuencia de fibonacci
+
+Imprima el triangulo de pascal
+
+
+
+Convertir un numero en hexadecimal
+Determinante de una matriz cuadrada de dimensión n (llenarla con números random)
+Fibbonacci
+Triangulo de pascal
